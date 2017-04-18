@@ -1,2 +1,5 @@
-# NathanYanJing.github.io
-This is about Nathan and MachineLearning
+#Leecode practice
+
+##Python programming
+
+##C++ programming
